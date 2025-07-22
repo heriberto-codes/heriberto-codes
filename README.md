@@ -4,8 +4,7 @@ Full-Stack Developer with 5+ years of experience building web applications acros
 ## Lets chat
 [Coffee chat with Heriberto](https://calendly.com/hroman_codes/coffee-chat-with-heriberto)
 
-
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=htmx)](https://github.com/harish-sethuraman/readme-components)
+![Heriberto GitHub stats](https://github-readme-stats.vercel.app/api?username=heriberto-codes&show_icons=true&theme=radical)
 
 <!--
 **heriberto-codes/heriberto-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
