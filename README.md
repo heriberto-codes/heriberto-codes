@@ -1,8 +1,11 @@
 ## About Me
-Full-Stack Developer with 5+ years of experience building scalable web applications across Health-tech, e-commerce, and Ed-tech industries. Proficient in Django, React, PostgreSQL, and AWS with a track record of delivering robust, user-focused solutions. Former technical instructor passionate about mentoring and currently building cThink, a multi-sensory EdTech tool for learning technical concepts.
+Full-Stack Developer with 5+ years of experience building web applications across Health-tech, e-commerce, and Ed-tech industries. Proficient in Django, React, PostgreSQL, Node.js and AWS with a track record of delivering robust, user-focused solutions. Former technical instructor passionate about mentoring and currently building cThink, a multi-sensory EdTech tool for learning technical concepts.
 
 ## Lets chat
 [Coffee chat with Heriberto](https://calendly.com/hroman_codes/coffee-chat-with-heriberto)
+
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=htmx)](https://github.com/harish-sethuraman/readme-components)
 
 <!--
 **heriberto-codes/heriberto-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
