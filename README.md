@@ -1,9 +1,5 @@
-## Hi My name is Heriberto Roman
-
-
 ## About Me
 Full-Stack Developer with 5+ years of experience building scalable web applications across Health-tech, e-commerce, and Ed-tech industries. Proficient in Django, React, PostgreSQL, and AWS with a track record of delivering robust, user-focused solutions. Former technical instructor passionate about mentoring and currently building cThink, a multi-sensory EdTech tool for learning technical concepts.
-
 
 ## Lets chat
 [Coffee chat with Heriberto](https://calendly.com/hroman_codes/coffee-chat-with-heriberto)
