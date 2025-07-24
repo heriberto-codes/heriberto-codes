@@ -2,11 +2,9 @@
 Full-Stack Developer with 5+ years of experience building web applications across Health-tech, e-commerce, and Ed-tech industries. Proficient in Django, React, PostgreSQL, Node.js and AWS with a track record of delivering robust, user-focused solutions. Former technical instructor passionate about mentoring and currently building cThink, a multi-sensory EdTech tool for learning technical concepts.
 
 ## Lets chat
-[Coffee chat with Heriberto](https://calendly.com/hroman_codes/coffee-chat-with-heriberto)
+☕ [Coffee chat with Heriberto](https://calendly.com/hroman_codes/coffee-chat-with-heriberto)
 
 ## Stats
-![Heriberto GitHub stats](https://github-readme-stats.vercel.app/api?username=heriberto-codes&show_icons=true&theme=radical)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2011%20mins-blue)
 
