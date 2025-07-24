@@ -4,6 +4,7 @@ Full-Stack Developer with 5+ years of experience building web applications acros
 ## Lets chat
 [Coffee chat with Heriberto](https://calendly.com/hroman_codes/coffee-chat-with-heriberto)
 
+## Stats
 ![Heriberto GitHub stats](https://github-readme-stats.vercel.app/api?username=heriberto-codes&show_icons=true&theme=radical)
 
 <!--
