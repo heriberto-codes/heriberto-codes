@@ -7,6 +7,9 @@ Full-Stack Developer with 5+ years of experience building web applications acros
 ## Stats
 ![Heriberto GitHub stats](https://github-readme-stats.vercel.app/api?username=heriberto-codes&show_icons=true&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **heriberto-codes/heriberto-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
