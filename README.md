@@ -16,8 +16,6 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 312 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -51,16 +49,16 @@ Sunday                   392 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 40 mins        █████████████████████████   100.00 % 
+Python                   1 hr 33 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codingChallenges         1 hr 40 mins        █████████████████████████   100.00 % 
+codingChallenges         1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +73,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 18:52:27 UTC
+ Last Updated on 20/08/2025 18:53:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
