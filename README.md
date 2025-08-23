@@ -8,13 +8,15 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 313 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -49,16 +51,18 @@ Sunday                   392 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   48 mins             █████████████████████████   100.00 % 
+Python                   52 mins             ███████████████████░░░░░░   77.61 % 
+Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codingChallenges         48 mins             █████████████████████████   100.00 % 
+codingChallenges         52 mins             ███████████████████░░░░░░   77.61 % 
+cThink                   15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +77,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 18:52:04 UTC
+ Last Updated on 23/08/2025 18:49:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
