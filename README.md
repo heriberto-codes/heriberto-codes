@@ -16,8 +16,6 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 313 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -75,7 +73,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2025 18:44:42 UTC
+ Last Updated on 14/09/2025 18:45:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
