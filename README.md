@@ -8,7 +8,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C879%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -16,64 +16,27 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 299 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                706 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-🌆 Daytime                2697 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-🌃 Evening                4021 commits        ██████████░░░░░░░░░░░░░░░   41.50 % 
-🌙 Night                  2266 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1105 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Tuesday                  834 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Wednesday                2887 commits        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Thursday                 1767 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Friday                   2008 commits        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Saturday                 697 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Sunday                   392 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               21 repos            ███████████████░░░░░░░░░░   58.33 % 
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               20 repos            ██████████████░░░░░░░░░░░   57.14 % 
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 
 
 
- Last Updated on 15/09/2025 18:50:52 UTC
+ Last Updated on 16/09/2025 18:51:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
