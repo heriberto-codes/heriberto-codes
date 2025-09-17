@@ -8,7 +8,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C879%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -16,7 +16,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 299 Contributions in the Year 2025
+> 🏆 300 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -24,6 +24,45 @@ currently building cThink, a multisensory EdTech tool for learning technical con
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                706 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+🌆 Daytime                2700 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌃 Evening                4017 commits        ██████████░░░░░░░░░░░░░░░   41.51 % 
+🌙 Night                  2255 commits        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1105 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Tuesday                  837 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Wednesday                2887 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+Thursday                 1763 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Friday                   1997 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Saturday                 697 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Sunday                   392 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -36,7 +75,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 18:51:16 UTC
+ Last Updated on 17/09/2025 18:51:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
