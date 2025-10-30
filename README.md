@@ -8,7 +8,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -16,7 +16,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 311 Contributions in the Year 2025
+> 🏆 313 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -28,8 +28,8 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ```text
 🌞 Morning                708 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-🌆 Daytime                2707 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌃 Evening                4017 commits        ██████████░░░░░░░░░░░░░░░   41.46 % 
+🌆 Daytime                2707 commits        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                4019 commits        ██████████░░░░░░░░░░░░░░░   41.47 % 
 🌙 Night                  2257 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -37,11 +37,11 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 ```text
 Monday                   1105 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 Tuesday                  840 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Wednesday                2891 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-Thursday                 1765 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Wednesday                2893 commits        ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Thursday                 1765 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
 Friday                   1997 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 Saturday                 699 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Sunday                   392 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Sunday                   392 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 
 
@@ -51,16 +51,18 @@ Sunday                   392 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 16 mins             ████████████████░░░░░░░░░   63.87 % 
+HTML                     8 mins              ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cThink                   25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +77,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2025 18:53:36 UTC
+ Last Updated on 30/10/2025 18:53:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
