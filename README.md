@@ -8,6 +8,8 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2018%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.36%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -22,6 +24,45 @@ currently building cThink, a multisensory EdTech tool for learning technical con
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                736 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+🌆 Daytime                2834 commits        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+🌃 Evening                4117 commits        ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌙 Night                  2285 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Tuesday                  888 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Wednesday                2933 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Thursday                 1811 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Friday                   2064 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Saturday                 741 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Sunday                   399 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -34,7 +75,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 18:54:12 UTC
+ Last Updated on 04/01/2026 18:54:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
