@@ -8,7 +8,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -16,7 +16,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 10 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,20 +51,20 @@ Sunday                   393 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     1 hr 42 mins        ███████████████░░░░░░░░░░   61.84 % 
-Text                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+HTML                     3 hrs 11 mins       ███████████████████░░░░░░   75.21 % 
+Text                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+CSS                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cThink                   2 hrs 45 mins       █████████████████████████   100.00 % 
+cThink                   4 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +79,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 19:03:45 UTC
+ Last Updated on 29/01/2026 19:13:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
