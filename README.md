@@ -8,7 +8,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C021%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C021%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,18 +51,18 @@ Sunday                   436 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 5 hrs 13 mins       █████████████░░░░░░░░░░░░   52.57 % 
-JavaScript               4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.48 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Markdown                 6 hrs 7 mins        ███████████████░░░░░░░░░░   58.57 % 
+JavaScript               4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.43 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-highlander-react-redux   9 hrs 56 mins       █████████████████████████   100.00 % 
+highlander-react-redux   10 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +77,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 20:34:38 UTC
+ Last Updated on 27/05/2026 20:36:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
