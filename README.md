@@ -8,7 +8,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C046%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -16,7 +16,7 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 143 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,13 +29,13 @@ currently building cThink, a multisensory EdTech tool for learning technical con
 ```text
 🌞 Morning                762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 🌆 Daytime                3013 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌃 Evening                4243 commits        ██████████░░░░░░░░░░░░░░░   40.77 % 
+🌃 Evening                4244 commits        ██████████░░░░░░░░░░░░░░░   40.78 % 
 🌙 Night                  2388 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Monday                   1189 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 Tuesday                  917 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 Wednesday                3030 commits        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
 Thursday                 1937 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
@@ -51,16 +51,20 @@ Sunday                   437 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   37.35 % 
+JavaScript               1 hr                ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Other                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+highlander-react-redux   3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +79,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 22/06/2026 21:24:30 UTC
+ Last Updated on 23/06/2026 20:36:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
