@@ -53,42 +53,42 @@ Sunday                   474 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     1 hr 17 mins        ██████████████████████░░░   86.98 % 
-CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Python                   21 mins             ███████████████░░░░░░░░░░   61.35 % 
+Other                    11 mins             ████████░░░░░░░░░░░░░░░░░   33.75 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        ███████████████████████░░   92.18 % 
-Codex Vscode             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Codex Vscode             34 mins             ████████████████████████░   97.13 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🐱‍💻 Projects: 
-hrcodes                  1 hr 23 mins        ███████████████████████░░   93.89 % 
-cThink                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+cThink                   33 mins             ████████████████████████░   95.10 % 
+hrcodes                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (100.0%)
+⏱ AI Coding Time: 35 mins (100.0%)
 
-✍️ 773 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 20,362,469 Input Tokens, 49,625 Output Tokens
+🔤 248,507 Input Tokens, 21,351 Output Tokens
 
-💵 $104.27 Estimated AI Cost This Week
+💵 $4.08 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 32 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
-GPT                      778 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 88 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +103,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:14:17 UTC
+ Last Updated on 25/08/2026 19:12:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
