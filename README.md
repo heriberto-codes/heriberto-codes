@@ -4,7 +4,7 @@ track record of building scalable web applications. Former technical instructor 
 currently building cThink, a multisensory EdTech tool for learning technical concepts.
 
 ## Lets chat
-☕ [Coffee chat with Heriberto](https://calendly.com/hroman_codes/coffee-chat-with-heriberto)
+☕ [Coffee chat with Heriberto](https://calendly.com/heriberto_codes/coffee_chat)
 
 ## Stats
 <!--START_SECTION:waka-->
