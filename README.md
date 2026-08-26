@@ -1,7 +1,11 @@
 ## About Me
-Full-Stack Developer proficient in Python, Django, JavaScript, React, Node.js, PostgreSQL, and AWS, with a
-track record of building scalable web applications. Former technical instructor passionate about mentoring and
-currently building cThink, a multisensory EdTech tool for learning technical concepts.
+👋 Hi, I’m Heriberto Roman, a Software Engineer and founder of Hroman Codes, LLC, with a builder’s mindset and a passion for creating useful, scalable software products.
+
+I come from a family of makers and problem-solvers, and I bring that same spirit to the keyboard. Since teaching myself to code in 2014, I’ve worn many hats from technical instructor empowering aspiring developers to software engineer building real-world products across HealthTech, EdTech, SaaS, and e-commerce.
+
+Through Hroman Codes, I work with startups and growing organizations to turn ideas and business problems into production-ready software. My work spans front-end and back-end development using technologies like Python, Django, React, PostgreSQL, and AWS, along with API integrations and AI-powered tools.
+
+Whether I’m architecting a backend, building a customer-facing feature, or taking a product from idea to deployment, I enjoy creating systems that are clean under the hood and intuitive for the people using them.
 
 ## Lets chat
 ☕ [Coffee chat with Heriberto](https://calendly.com/heriberto_codes/coffee_chat)
