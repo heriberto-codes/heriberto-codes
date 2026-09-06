@@ -57,45 +57,45 @@ Sunday                   492 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 hrs 13 mins       ███████████████░░░░░░░░░░   59.03 % 
-HTML                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-CSS                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown                 1 hr 56 mins        ██████████████░░░░░░░░░░░   56.43 % 
+HTML                     55 mins             ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 27 mins       ███████████████████████░░   91.76 % 
-VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Codex Vscode             3 hrs 8 mins        ███████████████████████░░   91.18 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🐱‍💻 Projects: 
-hrcodes                  3 hrs 8 mins        █████████████████████░░░░   83.43 % 
-rec_eng_if_mvp-main      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-plantid                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-turtle_ai                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+hrcodes                  2 hrs 49 mins       ████████████████████░░░░░   81.86 % 
+rec_eng_if_mvp-main      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+plantid                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+turtle_ai                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 26 mins (100.0%)
 
-✍️ 1,238 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,049 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,048,183 Input Tokens, 176,235 Output Tokens
+🔤 1,491,187 Input Tokens, 138,707 Output Tokens
 
-💵 $60.27 Estimated AI Cost This Week
+💵 $37.96 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 26 AI Prompts
+🧠 12 AI Sessions, 23 AI Prompts
 
-GPT                      1,259 lines         ██████████████████████░░░   89.93 % 
-Codex-Vscode             141 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+GPT                      1,032 lines         ██████████████████████░░░   88.05 % 
+Codex-Vscode             140 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,068 characters per prompt
+📚 Verbose Prompter — average 4,257 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -112,7 +112,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:39:01 UTC
+ Last Updated on 06/09/2026 20:43:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
