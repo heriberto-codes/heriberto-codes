@@ -12,9 +12,9 @@ Whether I’m architecting a backend, building a customer-facing feature, or tak
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C913%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C914%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.90%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,46 +57,46 @@ Sunday                   510 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-Python                   2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-HTML                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-CSS                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Python                   3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.09 % 
+Markdown                 2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+HTML                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+CSS                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 25 mins       █████████████████████░░░░   84.10 % 
-VS Code                  1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Codex Vscode             7 hrs 3 mins        ████████████████████░░░░░   79.70 % 
+VS Code                  1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 🐱‍💻 Projects: 
-hrcodes                  6 hrs 48 mins       █████████████████░░░░░░░░   67.93 % 
-turtle_ai                2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-codingChallenges         47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-g-p-688d149183708191a5e615 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+hrcodes                  6 hrs 22 mins       ██████████████████░░░░░░░   72.03 % 
+turtle_ai                1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+codingChallenges         47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+g-p-688d149183708191a5e6119 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-Mac                      10 hrs              █████████████████████████   100.00 % 
+Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 2 mins (90.28%)
+⏱ AI Coding Time: 7 hrs 40 mins (86.67%)
 
-✍️ 3,833 lines written by AI, 17 lines written by hand (99.56% AI-written)
+✍️ 3,650 lines written by AI, 17 lines written by hand (99.54% AI-written)
 
-🔤 5,784,974 Input Tokens, 353,143 Output Tokens
+🔤 5,692,499 Input Tokens, 317,225 Output Tokens
 
-💵 $70.55 Estimated AI Cost This Week
+💵 $66.73 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 193 AI Prompts
+🧠 23 AI Sessions, 167 AI Prompts
 
-GPT                      3,669 lines         ███████████████████████░░   92.75 % 
-Codex-Vscode             287 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+GPT                      3,485 lines         ███████████████████████░░   92.39 % 
+Codex-Vscode             287 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📝 Concise Prompter — average 480 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+🤖 AI-Driven — 99.54% of written lines came from AI
+📄 Detailed Prompter — average 548 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
@@ -112,7 +112,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:40:42 UTC
+ Last Updated on 18/09/2026 21:11:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
