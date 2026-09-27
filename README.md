@@ -12,9 +12,9 @@ Whether I’m architecting a backend, building a customer-facing feature, or tak
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C917%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C918%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,44 +57,46 @@ Sunday                   516 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.34 % 
-HTML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Python                   1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.91 % 
+HTML                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 13 mins       ██████████████████████░░░   89.58 % 
-VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Codex Vscode             3 hrs 17 mins       ██████████████████████░░░   89.81 % 
+VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 🐱‍💻 Projects: 
-hrcodes                  2 hrs 27 mins       █████████████████████████   99.00 % 
-codingChallenges         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+hrcodes                  3 hrs 35 mins       █████████████████████████   98.09 % 
+turtle_ai                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+codingChallenges         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (94.37%)
+⏱ AI Coding Time: 3 hrs 29 mins (95.47%)
 
-✍️ 1,510 lines written by AI, 1 lines written by hand (99.93% AI-written)
+✍️ 1,693 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 1,471,020 Input Tokens, 133,032 Output Tokens
+🔤 2,651,289 Input Tokens, 235,231 Output Tokens
 
-💵 $17.95 Estimated AI Cost This Week
+💵 $88.78 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 77 AI Prompts
+🧠 16 AI Sessions, 107 AI Prompts
 
-GPT                      1,532 lines         █████████████████████████   100.00 % 
+GPT                      1,715 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 543 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 601 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +111,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:27:13 UTC
+ Last Updated on 27/09/2026 21:34:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
