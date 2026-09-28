@@ -12,9 +12,9 @@ Whether I’m architecting a backend, building a customer-facing feature, or tak
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C918%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,46 +57,46 @@ Sunday                   516 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.91 % 
-HTML                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Python                   1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   36.01 % 
+Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+HTML                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 17 mins       ██████████████████████░░░   89.81 % 
-VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Codex Vscode             4 hrs 33 mins       ██████████████████████░░░   89.85 % 
+VS Code                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 
 🐱‍💻 Projects: 
-hrcodes                  3 hrs 35 mins       █████████████████████████   98.09 % 
-turtle_ai                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-codingChallenges         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+hrcodes                  5 hrs               █████████████████████████   98.62 % 
+turtle_ai                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+codingChallenges         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      3 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 29 mins (95.47%)
+⏱ AI Coding Time: 4 hrs 53 mins (96.24%)
 
-✍️ 1,693 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 2,035 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
-🔤 2,651,289 Input Tokens, 235,231 Output Tokens
+🔤 3,161,941 Input Tokens, 293,500 Output Tokens
 
-💵 $88.78 Estimated AI Cost This Week
+💵 $96.47 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 107 AI Prompts
+🧠 20 AI Sessions, 149 AI Prompts
 
-GPT                      1,715 lines         █████████████████████████   100.00 % 
+GPT                      2,057 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 601 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📄 Detailed Prompter — average 618 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +111,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:34:58 UTC
+ Last Updated on 28/09/2026 23:30:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
