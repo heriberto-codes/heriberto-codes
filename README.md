@@ -12,9 +12,9 @@ Whether I’m architecting a backend, building a customer-facing feature, or tak
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,46 +57,46 @@ Sunday                   516 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.89 % 
-Markdown                 1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-HTML                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Python                   1 hr 47 mins        ███████████░░░░░░░░░░░░░░   42.65 % 
+Markdown                 1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+HTML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 40 mins       ███████████████████████░░   92.10 % 
-VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Codex Vscode             3 hrs 53 mins       ███████████████████████░░   92.44 % 
+VS Code                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 🐱‍💻 Projects: 
-hrcodes                  3 hrs 55 mins       █████████████████████████   98.52 % 
-turtle_ai                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-do-x20                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+hrcodes                  4 hrs 9 mins        █████████████████████████   98.60 % 
+turtle_ai                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+do-x20                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 56 mins (98.7%)
+⏱ AI Coding Time: 4 hrs 9 mins (98.77%)
 
-✍️ 1,679 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 1,738 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,739,917 Input Tokens, 244,158 Output Tokens
+🔤 2,710,425 Input Tokens, 236,937 Output Tokens
 
-💵 $91.31 Estimated AI Cost This Week
+💵 $88.35 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 110 AI Prompts
+🧠 17 AI Sessions, 116 AI Prompts
 
-GPT                      1,684 lines         █████████████████████████   100.00 % 
+GPT                      1,747 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 640 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 707 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +111,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:54:18 UTC
+ Last Updated on 02/10/2026 22:31:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
