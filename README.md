@@ -12,9 +12,9 @@ Whether I’m architecting a backend, building a customer-facing feature, or tak
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,43 +57,43 @@ Sunday                   522 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   35 mins             ██████████████████░░░░░░░   70.46 % 
-JavaScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Python                   1 hr 14 mins        ███████████████░░░░░░░░░░   59.05 % 
+Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🔥 Editors: 
-Codex Vscode             49 mins             █████████████████████████   98.65 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Codex Vscode             2 hrs 4 mins        █████████████████████████   98.31 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🐱‍💻 Projects: 
-hrcodes                  39 mins             ████████████████████░░░░░   78.52 % 
-g-p-68c8d2d203fc8191ab32a10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+hrcodes                  1 hr 33 mins        ██████████████████░░░░░░░   73.77 % 
+g-p-68c8d2d203fc8191ab32a33 mins             ███████░░░░░░░░░░░░░░░░░░   26.23 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 5 mins (99.01%)
 
-✍️ 293 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 479 lines written by AI, 1 lines written by hand (99.79% AI-written)
 
-🔤 515,502 Input Tokens, 20,716 Output Tokens
+🔤 816,212 Input Tokens, 39,253 Output Tokens
 
-💵 $2.52 Estimated AI Cost This Week
+💵 $3.05 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 23 AI Prompts
+🧠 10 AI Sessions, 41 AI Prompts
 
-GPT                      299 lines           █████████████████████████   100.00 % 
+GPT                      479 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 810 characters per prompt
+🤖 AI-Driven — 99.79% of written lines came from AI
+📄 Detailed Prompter — average 689 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +108,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:34:19 UTC
+ Last Updated on 09/10/2026 22:52:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
