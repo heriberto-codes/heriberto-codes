@@ -57,45 +57,45 @@ Sunday                   523 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       ████████████████████░░░░░   81.29 % 
-Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Markdown                 3 hrs 11 mins       ████████████████████░░░░░   81.88 % 
+Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 58 mins       ████████████████████████░   96.96 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Codex Vscode             3 hrs 46 mins       ████████████████████████░   96.87 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🐱‍💻 Projects: 
-turtle_ai                2 hrs 39 mins       ████████████████░░░░░░░░░   64.69 % 
-hrcodes                  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.45 % 
-codingChallenges         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+turtle_ai                2 hrs 39 mins       █████████████████░░░░░░░░   68.10 % 
+hrcodes                  1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   31.00 % 
+codingChallenges         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 6 mins (99.93%)
+⏱ AI Coding Time: 3 hrs 53 mins (100.0%)
 
 ✍️ 1,117 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,323,661 Input Tokens, 145,066 Output Tokens
+🔤 1,228,359 Input Tokens, 143,381 Output Tokens
 
-💵 $15.24 Estimated AI Cost This Week
+💵 $14.99 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 78 AI Prompts
+🧠 11 AI Sessions, 73 AI Prompts
 
 GPT                      1,128 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 597 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 552 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -111,7 +111,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:38:18 UTC
+ Last Updated on 20/10/2026 21:51:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
