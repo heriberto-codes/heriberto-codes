@@ -1,11 +1,19 @@
 ## About Me
-👋 Hi, I’m Heriberto Roman, a Software Engineer and founder of Hroman Codes, LLC, with a builder’s mindset and a passion for creating useful, scalable software products.
+👋 I'm a Software Engineer and founder of Hroman Codes, LLC, a software consultancy where I design, build, and deliver custom software solutions for startups and growing organizations.
 
-I come from a family of makers and problem-solvers, and I bring that same spirit to the keyboard. Since teaching myself to code in 2014, I’ve worn many hats from technical instructor empowering aspiring developers to software engineer building real-world products across HealthTech, EdTech, SaaS, and e-commerce.
+My work spans SaaS, HealthTech, EdTech, and e-commerce, with hands-on experience across the stack using Python, Django, React, JavaScript, PostgreSQL, AWS, and REST APIs. Through Hroman Codes, I've helped clients turn business requirements into production-ready applications, from designing system architecture and backend services to developing customer-facing features and integrating APIs and AI-powered tools.
 
-Through Hroman Codes, I work with startups and growing organizations to turn ideas and business problems into production-ready software. My work spans front-end and back-end development using technologies like Python, Django, React, PostgreSQL, and AWS, along with API integrations and AI-powered tools.
+Before launching Hroman Codes, I worked as a Software Engineer at Tiny Organics and as a Technical Instructor, where I taught software development and mentored aspiring engineers. That combination of engineering and education continues to shape how I approach software development: breaking down complex problems, communicating technical decisions clearly, and building intuitive, accessible products.
 
-Whether I’m architecting a backend, building a customer-facing feature, or taking a product from idea to deployment, I enjoy creating systems that are clean under the hood and intuitive for the people using them.
+I'm also expanding my expertise in artificial intelligence through graduate studies at Boston University, where I'll be pursuing a master's degree focused on Software Engineering for Artificial Intelligence. This next chapter builds on my existing engineering experience and my interest in developing practical, scalable AI-powered applications.
+
+Outside of client work, I'm developing two projects that reflect my interests in education and AI:
+
+cThink: A multisensory EdTech platform that helps learners understand technical concepts through active, hands-on learning.
+
+Turtle AI: A structured AI-assisted development framework designed to make LLM-driven software development more systematic, reliable, and maintainable.
+
+I'm especially interested in Software Engineering opportunities and collaborations involving Python/Django, React, SaaS, HealthTech, EdTech, AI-enabled products, and full-stack product development.
 
 ## Lets chat
 ☕ [Coffee chat with Heriberto](https://calendly.com/heriberto_codes/coffee_chat)
