@@ -28,7 +28,7 @@ I'm especially interested in Software Engineering opportunities and collaboratio
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 385.3 kB Used in GitHub's Storage 
  > 
 > 🏆 235 Contributions in the Year 2026
  > 
@@ -38,6 +38,73 @@ I'm especially interested in Software Engineering opportunities and collaboratio
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                870 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+🌆 Daytime                3319 commits        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+🌃 Evening                4434 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌙 Night                  2536 commits        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Tuesday                  1045 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Wednesday                3139 commits        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Thursday                 2018 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Friday                   2245 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Saturday                 833 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Sunday                   538 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Markdown                 2 hrs 39 mins       ███████████████████░░░░░░   74.40 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+
+🔥 Editors: 
+Codex Vscode             2 hrs 36 mins       ██████████████████░░░░░░░   73.18 % 
+VS Code                  57 mins             ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+
+🐱‍💻 Projects: 
+turtle_ai                2 hrs 10 mins       ███████████████░░░░░░░░░░   60.83 % 
+hrcodes                  1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.01 % 
+g-p-688d149183708191a5e6112 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+6 oak road               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+
+💻 Operating System: 
+Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 33 mins (99.64%)
+
+✍️ 1,336 lines written by AI, 1 lines written by hand (99.93% AI-written)
+
+🔤 1,649,154 Input Tokens, 139,785 Output Tokens
+
+💵 $8.12 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 125 AI Prompts
+
+GPT                      1,387 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.93% of written lines came from AI
+📄 Detailed Prompter — average 595 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -50,7 +117,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 00:47:38 UTC
+ Last Updated on 04/11/2026 00:55:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
