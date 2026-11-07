@@ -20,9 +20,9 @@ I'm especially interested in Software Engineering opportunities and collaboratio
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C937%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C939%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -65,45 +65,46 @@ Sunday                   461 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 4 hrs 13 mins       ████████████████░░░░░░░░░   65.52 % 
-Python                   1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Other                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Markdown                 4 hrs 59 mins       ███████████████░░░░░░░░░░   61.68 % 
+Python                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Other                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 49 mins       ███████████████████░░░░░░   74.85 % 
-VS Code                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Codex Vscode             5 hrs 29 mins       █████████████████░░░░░░░░   67.74 % 
+VS Code                  2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
 
 🐱‍💻 Projects: 
-turtle_ai                3 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.98 % 
-hrcodes                  2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
-heriberto-codes          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-6 oak road               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-g-p-688d149183708191a5e611 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+hrcodes                  4 hrs 23 mins       ██████████████░░░░░░░░░░░   54.22 % 
+turtle_ai                3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.21 % 
+heriberto-codes          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+6 oak road               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+g-p-688d149183708191a5e611 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      6 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 24 mins (99.47%)
+⏱ AI Coding Time: 8 hrs 3 mins (99.4%)
 
-✍️ 2,026 lines written by AI, 2 lines written by hand (99.9% AI-written)
+✍️ 2,268 lines written by AI, 3 lines written by hand (99.87% AI-written)
 
-🔤 2,881,548 Input Tokens, 219,782 Output Tokens
+🔤 3,385,197 Input Tokens, 257,108 Output Tokens
 
-💵 $13.73 Estimated AI Cost This Week
+💵 $16.37 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 205 AI Prompts
+🧠 41 AI Sessions, 247 AI Prompts
 
-GPT                      2,077 lines         █████████████████████████   100.00 % 
+GPT                      2,320 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📄 Detailed Prompter — average 672 characters per prompt
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 638 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +119,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 23:27:43 UTC
+ Last Updated on 07/11/2026 22:14:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
