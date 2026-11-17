@@ -20,9 +20,9 @@ I'm especially interested in Software Engineering opportunities and collaboratio
 
 ## Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C939%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C939%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -65,36 +65,39 @@ Sunday                   461 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Other                    24 mins             ██████████████████████░░░   88.38 % 
+Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 
 🔥 Editors: 
-Codex Vscode             1 min               █████████████████████████   100.00 % 
+VS Code                  19 mins             ██████████████████░░░░░░░   71.84 % 
+Codex Vscode             7 mins              ███████░░░░░░░░░░░░░░░░░░   28.16 % 
 
 🐱‍💻 Projects: 
-turtle_ai                1 min               █████████████████████████   100.00 % 
+im-getting-this-error-fro16 mins             ███████████████░░░░░░░░░░   59.75 % 
+hrcodes                  11 mins             ██████████░░░░░░░░░░░░░░░   40.25 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (100.0%)
+⏱ AI Coding Time: 24 mins (88.38%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 96,184 Input Tokens, 720 Output Tokens
+🔤 165,386 Input Tokens, 5,198 Output Tokens
 
-💵 $0.21 Estimated AI Cost This Week
+💵 $0.54 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
+📄 Detailed Prompter — average 1,300 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -111,7 +114,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 23:06:21 UTC
+ Last Updated on 17/11/2026 02:00:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
